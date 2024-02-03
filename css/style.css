@@ -46,11 +46,17 @@ div{
     border-top: 2px;
 }
 .blue{
-    background-color: #6161FF;
+    background-color: #0000FF;
     text-align:left;
     margin-right:  50px;
     border-left: 5px;
     border-bottom: 2px;
+}
+div.blue h2{
+    color: #C9C9C9;
+}
+div.blue{
+    color: #C9C9C9;
 }
 .yellow{
     background-color: #FFFF00;
